@@ -2,7 +2,7 @@
   "name": "projetoreact",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://35.12.198/82",
+  "homepage": "http://35.12.198:82",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
