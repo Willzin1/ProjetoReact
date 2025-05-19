@@ -31,6 +31,6 @@ Este projeto é uma aplicação web para gerenciamento de alunos, com funcionali
 ---
 ## Link da aplicação
 
-Para acessar e visualizar a aplicação, acesse `http://35.198.12.207:82`
+Para acessar e visualizar a aplicação, acesse `http://35.198.12.207:82` * Temporariamente fora do ar *
 
 Feito por [William](https://github.com/Willzin1)
